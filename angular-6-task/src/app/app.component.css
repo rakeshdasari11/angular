@@ -1,0 +1,13 @@
+  
+#RedMenu {  
+    background-color: #B00;  
+    border-color: #B00;  
+}  
+
+    #RedMenu ul li a {  
+        color: #ffffff;  
+    }  
+
+    #RedMenu ul li:hover {  
+        background-color: #000;  
+    }  
